@@ -1,4 +1,4 @@
-DIRS = $(wildcard day*)
+DIRS = $(wildcard Tag*)
 .PHONY: $(DIRS)
 
 all: $(DIRS)
