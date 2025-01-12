@@ -1,45 +1,52 @@
 # Schummelseite
 
+## A
+
+`AGI`
+* [Tag 7](Tag7/README.md).
+* Artificial General Intelligence
+
 ## E
 
 `Entanglement`
 * [Tag 3](Tag3/README.md).
-* auch: Verschränkung
+* auch: `Verschränkung`
 
 ## K
 
 `Kohärenz`
 * [Tag 3](Tag3/README.md).
 * [Tag 4](Tag4/README.md).
+* [Tag 7](Tag7/README.md).
 
 ## P
 
 `Planck-Konstante`
 * [Tag 2](Tag2/README.md).
-* siehe: Reduzierte Planck-Konstante
+* siehe: `Reduzierte Planck-Konstante`
 
 ## Q
 
 `Quanten-Annealing`
 * [Tag 5](Tag5/README.md).
-* auch: Quantenglühen
+* auch: `Quantenglühen`
 
 `Quantenglühen`
 * [Tag 5](Tag5/README.md).
-* auch: Quanten-Annealing
+* auch: `Quanten-Annealing`
 
 ## R
 
 `Reduzierte Planck-Konstante`
 * [Tag 2](Tag2/README.md).
-* siehe: Planck-Konstante
+* siehe: `Planck-Konstante`
 
 ## S
 
 `Superposition`
 * [Tag 3](Tag3/README.md).
 * [Tag 4](Tag4/README.md).
-* auch: Überlagerung
+* auch: `Überlagerung`
 
 `Spin`
 * [Tag 4](Tag4/README.md).
@@ -53,11 +60,11 @@
 
 `Überlagerung`
 * [Tag 3](Tag3/README.md).
-* auch: Superposition
+* auch: `Superposition`
 
 ## V
 
 `Verschränkung`
 * [Tag 3](Tag3/README.md).
 * [Tag 4](Tag4/README.md).
-* auch: Entanglement
+* auch: `Entanglement`
