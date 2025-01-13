@@ -6,6 +6,24 @@
 * [Tag 7](Tag7/README.md).
 * Artificial General Intelligence
 
+## B
+
+`BEC`
+* Bose-Einstein-Kondensat
+* [Tag 8](Tag8/README.md).
+* siehe: `Bosenova`
+
+`Bosenova`
+* [Tag 8](Tag8/README.md).
+* Wenn `BEC` explodiert
+* siehe: `BEC`
+
+## D
+
+`Dekohärenz`
+* [Tag 8](Tag8/README.md).
+* siehe: `Kohärenz`
+
 ## E
 
 `Entanglement`
@@ -18,6 +36,7 @@
 * [Tag 3](Tag3/README.md).
 * [Tag 4](Tag4/README.md).
 * [Tag 7](Tag7/README.md).
+* siehe: `Dekohärenz`
 
 ## P
 
@@ -42,6 +61,9 @@
 * siehe: `Planck-Konstante`
 
 ## S
+
+`Superkühlung`
+* [Tag 8](Tag8/README.md).
 
 `Superposition`
 * [Tag 3](Tag3/README.md).
