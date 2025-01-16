@@ -80,6 +80,7 @@
 `Superposition`
 * [Tag 3](Tag3/README.md).
 * [Tag 4](Tag4/README.md).
+* [Tag 11](Tag11/README.md).
 * auch: `Überlagerung`
 
 `Spin`
@@ -102,4 +103,5 @@
 * [Tag 3](Tag3/README.md).
 * [Tag 4](Tag4/README.md).
 * [Tag 9](Tag9/README.md).
+* [Tag 11](Tag11/README.md).
 * auch: `Entanglement`
