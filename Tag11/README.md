@@ -13,5 +13,5 @@ Ab Seite 88:
 * Schneller als die Lichtgeschwindigkeit
 * spukhafte Fernwirkung
 * Herzstück des Quantencomputings
-** Superposition
-** Verschränkung
+ - Superposition
+ - Verschränkung
