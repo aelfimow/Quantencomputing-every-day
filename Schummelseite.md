@@ -58,6 +58,10 @@
 
 ## Q
 
+`QIS`
+* [Tag 16](Tag16/README.md)
+* Quantum Information Science
+
 `Quanten-Annealing`
 * [Tag 5](Tag5/README.md)
 * auch: `Quantenglühen`
