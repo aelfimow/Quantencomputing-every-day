@@ -18,6 +18,12 @@
 * Wenn `BEC` explodiert
 * siehe: `BEC`
 
+## C
+
+`CNOT`
+* [Tag 18](Tag18/README.md)
+* Controlled NOT (Gatter)
+
 ## D
 
 `Dekohärenz`
