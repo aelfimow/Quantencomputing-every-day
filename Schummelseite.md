@@ -56,6 +56,10 @@
 `Lokalitätsprinzip`
 * [Tag 10](Tag10/README.md)
 
+`LPS`
+* [Tag 24](Tag24/README.md)
+* Lokales Positionsbestimmungssystem
+
 ## P
 
 `Planck-Konstante`
