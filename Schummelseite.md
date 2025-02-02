@@ -60,6 +60,12 @@
 * [Tag 24](Tag24/README.md)
 * Lokales Positionsbestimmungssystem
 
+## N
+
+`NISQ`
+* Noisy Intermediate-scale Quantum
+* [Tag 28](Tag28/README.md)
+
 ## P
 
 `Planck-Konstante`
