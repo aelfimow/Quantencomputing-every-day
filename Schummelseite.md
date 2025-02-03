@@ -87,6 +87,10 @@
 * [Tag 5](Tag5/README.md)
 * auch: `Quanten-Annealing`
 
+`QUBO`:
+* [Tag 29](Tag29/README.md)
+* Quadratische Uneingeschränkte Binäre Optimierungen
+
 ## R
 
 `Reduzierte Planck-Konstante`
