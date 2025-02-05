@@ -74,6 +74,11 @@
 
 ## Q
 
+`QD`
+* [Tag 31](Tag31/README.md)
+* Quantum Dots
+* Quantenpunkte
+
 `QIS`
 * [Tag 16](Tag16/README.md)
 * Quantum Information Science
