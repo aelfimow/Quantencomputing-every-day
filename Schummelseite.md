@@ -74,6 +74,14 @@
 
 ## Q
 
+`QaaS`
+* [Tag 32](Tag32/README.md)
+* Quantencomputing-as-a-Service
+
+`QASM`
+* [Tag 32](Tag32/README.md)
+* Quantum Assembly Language
+
 `QD`
 * [Tag 31](Tag31/README.md)
 * Quantum Dots
