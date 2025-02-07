@@ -94,10 +94,12 @@
 `Quanten-Annealing`
 * [Tag 5](Tag5/README.md)
 * [Tag 21](Tag21/README.md)
+* [Tag 33](Tag33/README.md)
 * auch: `Quantenglühen`
 
 `Quantenglühen`
 * [Tag 5](Tag5/README.md)
+* [Tag 33](Tag33/README.md)
 * auch: `Quanten-Annealing`
 
 `QUBO`:
