@@ -104,6 +104,7 @@
 
 `QUBO`:
 * [Tag 29](Tag29/README.md)
+* [Tag 34](Tag34/README.md)
 * Quadratische Uneingeschränkte Binäre Optimierungen
 
 ## R
