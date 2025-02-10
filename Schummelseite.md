@@ -11,12 +11,19 @@
 `BEC`
 * Bose-Einstein-Kondensat
 * [Tag 8](Tag8/README.md)
+* [Tag 36](Tag36/README.md)
 * siehe: `Bosenova`
 
 `Bosenova`
 * [Tag 8](Tag8/README.md)
 * Wenn `BEC` explodiert
 * siehe: `BEC`
+
+`Bose-Einstein-Kondensat`
+* [Tag 8](Tag8/README.md)
+* [Tag 36](Tag36/README.md)
+* siehe: `BEC`
+* siehe: `Bosenova`
 
 ## C
 
