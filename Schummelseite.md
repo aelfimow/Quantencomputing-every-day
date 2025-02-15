@@ -45,12 +45,22 @@
 
 ## F
 
+`Fluxmon`
+* [Tag 41](Tag41/README.md)
+* ?
+* siehe: `Koaxmon`, `Transmon`
+
 `FTL`
 * [Tag 9](Tag9/README.md)
 * Faster-Than-Light
 * Fault-Tolerant Quantum Logic?
 
 ## K
+
+`Koaxmon`
+* [Tag 41](Tag41/README.md)
+* ?
+* siehe: `Fluxmon`, `Transmon`
 
 `Kohärenz`
 * [Tag 3](Tag3/README.md)
@@ -140,6 +150,11 @@
 * [Tag 4](Tag4/README.md)
 
 ## T
+
+`Transmon`
+* [Tag 41](Tag41/README.md)
+* Transmission Line Shunted Plasma Oscillation (Qubit)
+* siehe: `Fluxmon`, `Koaxmon`
 
 `Tunneling`
 * [Tag 3](Tag3/README.md)
