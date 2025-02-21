@@ -96,6 +96,10 @@
 * [Tag 32](Tag32/README.md)
 * Quantencomputing-as-a-Service
 
+`QAOA`:
+* [Tag 47](Tag47/README.md)
+* Quantum Approximate Optimisation Algorithm
+
 `QASM`
 * [Tag 32](Tag32/README.md)
 * Quantum Assembly Language
