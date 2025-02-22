@@ -98,6 +98,7 @@
 
 `QAOA`:
 * [Tag 47](Tag47/README.md)
+* [Tag 48](Tag48/README.md)
 * Quantum Approximate Optimisation Algorithm
 
 `QASM`
