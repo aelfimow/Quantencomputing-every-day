@@ -114,6 +114,10 @@
 * [Tag 16](Tag16/README.md)
 * Quantum Information Science
 
+`QKD`
+* [Tag 51](Tag51/README.md)
+* Quantum Key Distribution
+
 `Quanten-Annealing`
 * [Tag 5](Tag5/README.md)
 * [Tag 21](Tag21/README.md)
