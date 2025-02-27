@@ -99,6 +99,7 @@
 `QAOA`:
 * [Tag 47](Tag47/README.md)
 * [Tag 48](Tag48/README.md)
+* [Tag 53](Tag53/README.md)
 * Quantum Approximate Optimisation Algorithm
 
 `QASM`
@@ -117,6 +118,14 @@
 `QKD`
 * [Tag 51](Tag51/README.md)
 * Quantum Key Distribution
+
+`QKNN`
+* [Tag 53](Tag53/README.md)
+* Quantum k-nearest neighbor
+
+`QSVM`
+* [Tag 53](Tag53/README.md)
+* Quantum-Support-Vector-Machine
 
 `Quanten-Annealing`
 * [Tag 5](Tag5/README.md)
@@ -182,3 +191,7 @@
 * [Tag 9](Tag9/README.md)
 * [Tag 11](Tag11/README.md)
 * auch: `Entanglement`
+
+`VQE`
+* [Tag 53](Tag53/README.md)
+* Variational Quantum Eigensolver
