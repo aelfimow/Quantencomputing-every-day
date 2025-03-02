@@ -55,6 +55,16 @@
 * Faster-Than-Light
 * Fault-Tolerant Quantum Logic?
 
+## H
+
+`HHL`
+* [Tag 55](Tag55/README.md)
+* Harro-Hassidim-Lloyd (HHL)-Algorithmus
+
+`HSP`
+* [Tag 55](Tag55/README.md)
+* Algorithmen für das Problem der versteckten Untergruppen
+
 ## K
 
 `Koaxmon`
@@ -96,6 +106,10 @@
 * [Tag 32](Tag32/README.md)
 * Quantencomputing-as-a-Service
 
+`QANF`
+* [Tag 55](Tag55/README.md)
+* Algorithmus zur Quantenapproximation nichtlinearer Funktionen
+
 `QAOA`:
 * [Tag 47](Tag47/README.md)
 * [Tag 48](Tag48/README.md)
@@ -111,6 +125,10 @@
 * Quantum Dots
 * Quantenpunkte
 
+`QFT`
+* [Tag 55](Tag55/README.md)
+* Quanten-Fourier-Transformation
+
 `QIS`
 * [Tag 16](Tag16/README.md)
 * Quantum Information Science
@@ -122,6 +140,10 @@
 `QKNN`
 * [Tag 53](Tag53/README.md)
 * Quantum k-nearest neighbor
+
+`QPE`
+* [Tag 55](Tag55/README.md)
+* Algorithmus zur Quantenphasenschätzung
 
 `QSVM`
 * [Tag 53](Tag53/README.md)
@@ -194,4 +216,5 @@
 
 `VQE`
 * [Tag 53](Tag53/README.md)
+* [Tag 55](Tag55/README.md)
 * Variational Quantum Eigensolver
