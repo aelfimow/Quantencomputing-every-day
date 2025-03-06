@@ -59,7 +59,8 @@
 
 `HHL`
 * [Tag 55](Tag55/README.md)
-* Harro-Hassidim-Lloyd (HHL)-Algorithmus
+* [Tag 60](Tag60/README.md)
+* Harrow-Hassidim-Lloyd (HHL)-Algorithmus
 
 `HSP`
 * [Tag 55](Tag55/README.md)
@@ -114,6 +115,7 @@
 * [Tag 47](Tag47/README.md)
 * [Tag 48](Tag48/README.md)
 * [Tag 53](Tag53/README.md)
+* [Tag 60](Tag60/README.md)
 * Quantum Approximate Optimisation Algorithm
 
 `QASM`
