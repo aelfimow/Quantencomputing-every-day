@@ -219,4 +219,5 @@
 `VQE`
 * [Tag 53](Tag53/README.md)
 * [Tag 55](Tag55/README.md)
+* [Tag 61](Tag61/README.md)
 * Variational Quantum Eigensolver
