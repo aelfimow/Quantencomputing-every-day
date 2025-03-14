@@ -24,10 +24,7 @@ Ab Seite 49:
 0
 \end{pmatrix}
 ```
-* Nordpol ist per Konvention:
-$$
-|0\rangle
-$$
+* Nordpol ist per Konvention: $|0\rangle$
 
 * Südpol: $\theta = \pi$, $\phi = 0$ (oder beliebig)
 ```math
@@ -41,7 +38,4 @@ $$
 1
 \end{pmatrix}
 ```
-* Südpol ist per Konvention:
-$$
-|1\rangle
-$$
+* Südpol ist per Konvention: $|1\rangle$
