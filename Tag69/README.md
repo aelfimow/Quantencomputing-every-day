@@ -27,10 +27,10 @@ Ab Seite 49:
 1
 \end{pmatrix}
 ```
-* Ergebnis: $\frac{1}{\sqrt{2}}|0\rangle + \frac{1}{\sqrt{2}}|1\rangle$
+* Ergebnis: $\frac{1}{\sqrt{2}} | 0\rangle + \frac{1}{\sqrt{2}} | 1\rangle$
 
 * "bra-c-ket":
-  - $\langle \psi | \varphi\rangle := \int_{-\infty}^{\infty} \psi^{*}(x) \varphi(x) \, dx$
+  - $\langle \psi | \varphi\rangle := \int_{-\infty}^{\infty} \psi^{*}(x) \varphi(x) dx$
   - Bra: $\langle\psi |$
   - Ket: $| \varphi\rangle$
 
