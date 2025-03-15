@@ -3,7 +3,7 @@
 Notizen zum Buch [Buch 1](../Buch1.md).
 
 Ab Seite 49:
-* Auf dem Äquator liegende Punkt: $\theta = \frac{\pi}{2}$, $\phi = 0$
+* Auf dem Äquator liegende Punkt: $\theta = \frac{\pi}{2}$, $\varphi = 0$
 ```math
 \begin{pmatrix}
 \cos{\frac{\pi}{2\cdot 2}} \\
@@ -28,3 +28,12 @@ Ab Seite 49:
 \end{pmatrix}
 ```
 * Result: $\frac{1}{\sqrt{2}}|0\rangle + \frac{1}{\sqrt{2}}|1\rangle$
+
+* "bra-c-ket":
+  - $\langle \psi | \varphi\rangle := \int_{-\infty}^{\infty} \psi^{*}(x) \varphi(x) \, dx$
+  - Bra: $\langle\psi |$
+  - Ket: $| \varphi\rangle$
+
+* Klassische Bits:
+  - 0: $| 0\rangle$
+  - 1: $| 1\rangle$
