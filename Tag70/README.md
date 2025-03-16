@@ -21,4 +21,4 @@ Ab Seite 53
 \langle\psi|\varphi\rangle = \langle\varphi|\psi\rangle^{*}
 ```
 * Eigenschaft 3:
-$ \langle\psi|\psi\rangle \geq 0 $ und $ \langle\psi|\psi\rangle = 0 $ genau dann, wenn $ |\psi\rangle = 0 $
+$\langle\psi|\psi\rangle \geq 0$ und $\langle\psi|\psi\rangle = 0$ genau dann, wenn $|\psi\rangle = 0$
