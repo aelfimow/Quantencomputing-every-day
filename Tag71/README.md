@@ -5,7 +5,7 @@ Notizen zum Buch [Buch 1](../Buch1.md).
 Ab Seite 53
 * Norm des Vektors:
 ```math
-\langle\psi|\psi\rangle: \lvert\lvert\psi\rvert\rvert^{2}
+\langle\psi|\psi\rangle: |\psi|^{2}
 ```
 * Länge des Vektors
 * Länge ist gleich 1?
@@ -24,5 +24,5 @@ Ab Seite 53
 ```
 * Normieren des Vektors:
 ```math
-\frac{|\psi\rangle}{||\psi||} = \frac{|\psi\rangle}{\sqrt{\langle\psi|\psi\rangle}}
+\frac{|\psi\rangle}{|\psi|} = \frac{|\psi\rangle}{\sqrt{\langle\psi|\psi\rangle}}
 ```
