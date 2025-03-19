@@ -13,3 +13,9 @@ Ab Seite 55:
 * Tensorraum:
   - $\alpha_{1}z_{1} + \alpha_{2}z_{2} + \alpha_{3}z_{3} + \alpha_{4}z_{4}$
 * Bell-Basis
+* "dense coding" Schritte:
+  - Schritt 1: Alice und Bob bekommen zwei Qubits im überlagerten Bell-Zustand
+  - Schritt 2: Alice bekommt ein Qubit, Bob bekommt das zweite Qubit
+  - Schritt 3: Alice führt an ihrem Qubit eine Operation entsprechend ihrer 2-bit Nachricht
+  - Schritt 4: Alice sendet das Qubit zu Bob
+  - Schritt 5: Bob misst den Zustand der beiden Qubits und erhält die 2-bit Information
