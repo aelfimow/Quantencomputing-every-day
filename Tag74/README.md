@@ -28,3 +28,9 @@ Ab Seite 66:
 \end{pmatrix}
 = 0
 ```
+
+Ab Seite 67:
+* der natürliche Übergang vom kartesischen zum Tensorprodukt:
+  - $|\psi\rangle \otimes |\varphi\rangle$
+  - das Zeichen $\otimes$ wird häufig weggelassen: $|i\rangle \otimes |j\rangle = |i\rangle |j\rangle = |ij\rangle$
+* Tensorprodukte bilden den Tensorraum
