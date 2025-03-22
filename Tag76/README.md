@@ -8,10 +8,10 @@ Ab Seite 68:
   - Ergebnis: $(\alpha\alpha', \alpha\beta', \beta\alpha', \beta\beta')$
 
 * Klassisch nicht interpretierbare lineare Kombinationen:
-  - $|0\rangle \otimes |0\rangle + $|1\rangle \otimes |1\rangle$
-  - $|0\rangle \otimes |1\rangle + $|1\rangle \otimes |0\rangle$
-  - $|0\rangle \otimes |0\rangle - $|1\rangle \otimes |1\rangle$
-  - $|0\rangle \otimes |1\rangle - $|1\rangle \otimes |0\rangle$
+  - $|0\rangle \otimes |0\rangle + |1\rangle \otimes |1\rangle$
+  - $|0\rangle \otimes |1\rangle + |1\rangle \otimes |0\rangle$
+  - $|0\rangle \otimes |0\rangle - |1\rangle \otimes |1\rangle$
+  - $|0\rangle \otimes |1\rangle - |1\rangle \otimes |0\rangle$
   - die Natur lässt diese Zustände zu
 
 * Vektorraum für die Codierung von Zweier-Qubits:
