@@ -57,6 +57,10 @@
 
 ## H
 
+`Hadamard-Transformation`
+* [Tag 79](Tag79/README.md)
+* [Tag 44](Tag44/README.md)
+
 `HHL`
 * [Tag 55](Tag55/README.md)
 * [Tag 60](Tag60/README.md)
