@@ -6,7 +6,7 @@ Ab Seite 53
 * Orthonormalbasen
   - Vektoren der Länge 1 stehen senkrecht aufeinander
   - $|0\rangle$ und $|1\rangle$ als Orthonormalbasis
-    - kann nicht auf die Blocksphäre übertragen werden
+    - kann nicht auf die Blochsphäre übertragen werden
 * Eindeutiger und zulässiger Zustand eines Qubit
   - der jeweilige Wert eines Qubit kann algebraisch so beschrieben werden:
 ```math
