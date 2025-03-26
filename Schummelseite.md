@@ -32,6 +32,7 @@
 
 `CNOT`
 * [Tag 18](Tag18/README.md)
+* [Tag 80](Tag80/README.md)
 * Controlled NOT (Gatter)
 
 ## D
