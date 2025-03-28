@@ -12,6 +12,7 @@ Ab Seite 74:
 0 && 0 && 1 && 0
 \end{pmatrix}
 \frac{1}{\sqrt{2}}
+\begin{pmatrix}
 1 && 0 && 1 && 0 \\
 0 && 1 && 0 && 1 \\
 1 && 0 && -1 && 0 \\
@@ -21,6 +22,7 @@ Ab Seite 74:
 * Ergebnis:
 ```math
 \frac{1}{\sqrt{2}}
+\begin{pmatrix}
 1 && 0 && 1 && 0 \\
 0 && 1 && 0 && 1 \\
 0 && 1 && 0 && -1 \\
