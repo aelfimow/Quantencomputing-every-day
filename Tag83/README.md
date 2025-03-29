@@ -114,5 +114,5 @@ Ab Seite 74:
 ```
 
 * Es gibt keine klassische Interpretation
-* |\beta_{00}\rangle, |\beta_{01}\rangle, |\beta_{10}\rangle, |\beta_{11}\rangle sind die Bell-Zustände
+* $|\beta_{00}\rangle$, $|\beta_{01}\rangle$, $|\beta_{10}\rangle$, $|\beta_{11}\rangle$ sind die Bell-Zustände
 * bilden eine Orthonormalbasis
