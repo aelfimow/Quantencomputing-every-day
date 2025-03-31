@@ -3,7 +3,7 @@
 Notizen zum Buch [Buch 1](../Buch1.md).
 
 Ab Seite 76:
-* $(X \otimes id)$ liefert folgenden Übergang angewand an $|\beta_{00}$:
+* $(X \otimes id)$ liefert folgenden Übergang angewand an $|\beta_{00}\rangle$:
 ```math
 (X \otimes id) |\beta_{00}\rangle
 =
@@ -33,7 +33,7 @@ Ab Seite 76:
 ```
 * Der Übergang ist: $|\beta_{00}\rangle \longmapsto |\beta_{01}\rangle$
 
-* $(X \otimes id)$ liefert folgenden Übergang angewand an $|\beta_{01}$:
+* $(X \otimes id)$ liefert folgenden Übergang angewand an $|\beta_{01}\rangle$:
 ```math
 (X \otimes id) |\beta_{01}\rangle
 =
@@ -63,7 +63,7 @@ Ab Seite 76:
 ```
 * Der Übergang ist: $|\beta_{01}\rangle \longmapsto |\beta_{00}\rangle$
 
-* $(X \otimes id)$ liefert folgenden Übergang angewand an $|\beta_{10}$:
+* $(X \otimes id)$ liefert folgenden Übergang angewand an $|\beta_{10}\rangle$:
 ```math
 (X \otimes id) |\beta_{10}\rangle
 =
@@ -94,7 +94,7 @@ Ab Seite 76:
 * Der Übergang ist: $|\beta_{10}\rangle \longmapsto |\beta_{11}\rangle$
 
 
-* $(X \otimes id)$ liefert folgenden Übergang angewand an $|\beta_{11}$:
+* $(X \otimes id)$ liefert folgenden Übergang angewand an $|\beta_{11}\rangle$:
 ```math
 (X \otimes id) |\beta_{11}\rangle
 =
