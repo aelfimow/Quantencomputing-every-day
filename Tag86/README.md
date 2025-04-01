@@ -3,7 +3,7 @@
 Notizen zum Buch [Buch 1](../Buch1.md).
 
 Ab Seite 76:
-* Für $iY \otimes id)$ soll es ähnliche Ergebnisse geben wie hier [Tag 84](../Tag84)
+* Für $(iY \otimes id)$ soll es ähnliche Ergebnisse geben wie hier [Tag 85](../Tag85)
 
 * Hier wird es als Hausaufgabe überprüft
 
