@@ -4,9 +4,9 @@ Notizen zum Buch [Buch 1](../Buch1.md).
 
 Ab Seite 76:
 * Es lassen sich der Reihe nach alle Zustände der Bell-Basis erhalten:
-  - $|\beta_{00}\rangle \overset{id \otimes id}\longmapsto |\beta_{00}\rangle$
+  - Beispiel: $|\beta_{00}\rangle \overset{id \otimes id}\longmapsto |\beta_{00}\rangle$
 
-* In Matrixform:
+* Beispiel in Matrixform:
 ```math
 \begin{pmatrix}
 1 && 0 && 0 && 0 \\
