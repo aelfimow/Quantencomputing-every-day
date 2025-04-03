@@ -30,3 +30,30 @@ Ab Seite 76:
 -1
 \end{pmatrix}
 ```
+* Beispiel mit $(X \otimes id)$:
+  - $|\beta_{00}\rangle \overset{X \otimes id}\longmapsto |\beta_{10}\rangle$
+
+* Beispiel mit $(X \otimes id)$ in Matrixform:
+```math
+\begin{pmatrix}
+0 && 0 && 1 && 0 \\
+0 && 0 && 0 && 1 \\
+1 && 0 && 0 && 0 \\
+0 && 1 && 0 && 0
+\end{pmatrix}
+\frac{1}{\sqrt{2}}
+\begin{pmatrix}
+1 \\
+0 \\
+0 \\
+1
+\end{pmatrix}
+=
+\frac{1}{\sqrt{2}}
+\begin{pmatrix}
+0 \\
+1 \\
+1 \\
+0
+\end{pmatrix}
+```
