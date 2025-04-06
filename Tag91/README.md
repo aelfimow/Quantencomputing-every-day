@@ -39,3 +39,57 @@ M_{2}
 0 && 0 && 0 && 0 && 0 && 0 && 1 && 0
 \end{pmatrix}
 ```
+
+* Zur Erinnerung: 8-dimensionaler Ausgangsvektor
+```math
+A
+=
+\begin{pmatrix}
+\alpha \\
+0 \\
+0 \\
+0 \\
+\beta \\
+0 \\
+0 \\
+0
+\end{pmatrix}
+```
+
+* Erste Transformation:
+```math
+A_{1}
+=
+M_{1} A
+=
+\frac{1}{\sqrt{2}}
+\begin{pmatrix}
+\alpha \\
+0 \\
+\alpha \\
+0 \\
+\beta \\
+0 \\
+\beta \\
+0
+\end{pmatrix}
+```
+
+* Zweite Transformation:
+```math
+A_{2}
+=
+M_{2} A_{1}
+=
+\frac{1}{\sqrt{2}}
+\begin{pmatrix}
+\alpha \\
+0 \\
+0 \\
+\alpha \\
+\beta \\
+0 \\
+0 \\
+\beta
+\end{pmatrix}
+```
