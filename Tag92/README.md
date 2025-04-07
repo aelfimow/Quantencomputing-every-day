@@ -38,7 +38,7 @@ M_{4}
 \end{pmatrix}
 ```
 
-* 3. unitäre Transformation:
+* Dritte unitäre Transformation:
 ```math
 A_{3}
 =
@@ -57,7 +57,7 @@ M_{3} A_{2}
 \end{pmatrix}
 ```
 
-* 4. unitäre Transformation:
+* Vierte unitäre Transformation:
 ```math
 A_{4}
 =
