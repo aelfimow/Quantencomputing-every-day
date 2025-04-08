@@ -139,22 +139,3 @@ M_{pr_{11}} A_{4}
 \alpha
 \end{pmatrix}
 ```
-
-* Vierte unitäre Transformation:
-```math
-A_{4}
-=
-M_{4} A_{3}
-=
-\frac{1}{2}
-\begin{pmatrix}
-\alpha \\
-\beta \\
-\beta \\
-\alpha \\
-\alpha \\
--\beta \\
--\beta \\
-\alpha
-\end{pmatrix}
-```
