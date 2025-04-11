@@ -18,7 +18,7 @@ Ab Seite 87:
 \end{pmatrix}
 ```
 
-* Ausgangsvektor wird abgebildet auf einer dieser vier Vektoren:
+* Ausgangsvektor wird abgebildet auf einen dieser vier Vektoren:
 ```math
 \begin{pmatrix}
 \alpha \\
