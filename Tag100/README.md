@@ -29,7 +29,11 @@ Ab Seite 92:
 \beta|1\rangle \otimes |0\rangle \otimes |0\rangle +
 \beta|1\rangle \otimes |1\rangle \otimes |1\rangle
 )
+```
+```math
 \overset{CNOT \otimes id}\longmapsto
+```
+```math
 \frac{1}{\sqrt{2}}(
 \alpha|0\rangle \otimes |0\rangle \otimes |0\rangle +
 \alpha|0\rangle \otimes |1\rangle \otimes |1\rangle +
