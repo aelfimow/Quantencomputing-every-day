@@ -36,7 +36,7 @@ Ab Seite 91:
 \alpha |1\rangle \otimes |1\rangle \otimes |1\rangle +
 ```
 ```math
-\beta |0\rangle \otimes |1\rangle \otimes |1\rangle +
+\beta |0\rangle \otimes |1\rangle \otimes |0\rangle +
 \beta |1\rangle \otimes |1\rangle \otimes |0\rangle +
 \beta |0\rangle \otimes |0\rangle \otimes |1\rangle +
 \beta |1\rangle \otimes |0\rangle \otimes |1\rangle
