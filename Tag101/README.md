@@ -20,25 +20,25 @@ Ab Seite 91:
 \overset{H \otimes id \otimes id}\longmapsto
 ```
 ```math
-\frac{1}{\sqrt{2}}(
+\frac{1}{2}(
 \alpha(|0\rangle + |1\rangle) \otimes |0\rangle \otimes |0\rangle +
 \alpha(|0\rangle + |1\rangle) \otimes |1\rangle \otimes |1\rangle +
-\beta(|0\rangle - |1\rangle) |1\rangle \otimes |0\rangle +
-\beta(|0\rangle - |1\rangle) |0\rangle \otimes |1\rangle
+\beta(|0\rangle - |1\rangle) \otimes |1\rangle \otimes |0\rangle +
+\beta(|0\rangle - |1\rangle) \otimes |0\rangle \otimes |1\rangle
 )
 ```
 * Ausklammern:
 ```math
-\frac{1}{\sqrt{2}}(
+\frac{1}{2}(
 \alpha |0\rangle \otimes |0\rangle \otimes |0\rangle +
 \alpha |1\rangle \otimes |0\rangle \otimes |0\rangle +
 \alpha |0\rangle \otimes |1\rangle \otimes |1\rangle +
 \alpha |1\rangle \otimes |1\rangle \otimes |1\rangle +
 ```
 ```math
-\beta |0\rangle \otimes |1\rangle \otimes |0\rangle +
+\beta |0\rangle \otimes |1\rangle \otimes |0\rangle -
 \beta |1\rangle \otimes |1\rangle \otimes |0\rangle +
-\beta |0\rangle \otimes |0\rangle \otimes |1\rangle +
+\beta |0\rangle \otimes |0\rangle \otimes |1\rangle -
 \beta |1\rangle \otimes |0\rangle \otimes |1\rangle
 )
 ```
