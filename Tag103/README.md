@@ -13,7 +13,7 @@ Ab Seite 92:
 |0\rangle \otimes |0\rangle \otimes (\alpha |0\rangle + \beta |1\rangle)
 ```
 ```math
-\overset{id \otimes id \otimes id}
+\overset{id \otimes id \otimes id}\longmapsto
 ```
 ```math
 |0\rangle \otimes |0\rangle \otimes (\alpha |0\rangle + \beta |1\rangle)
@@ -24,7 +24,7 @@ Ab Seite 92:
 |0\rangle \otimes |1\rangle \otimes (\beta |0\rangle + \alpha |1\rangle)
 ```
 ```math
-\overset{id \otimes id \otimes X}
+\overset{id \otimes id \otimes X}\longmapsto
 ```
 ```math
 |0\rangle \otimes |1\rangle \otimes (\alpha |0\rangle + \beta |1\rangle)
@@ -35,7 +35,7 @@ Ab Seite 92:
 |1\rangle \otimes |0\rangle \otimes (\alpha |0\rangle - \beta |1\rangle)
 ```
 ```math
-\overset{id \otimes id \otimes Z}
+\overset{id \otimes id \otimes Z}\longmapsto
 ```
 ```math
 |1\rangle \otimes |0\rangle \otimes (\alpha |0\rangle + \beta |1\rangle)
@@ -46,7 +46,7 @@ Ab Seite 92:
 |1\rangle \otimes |1\rangle \otimes (-\beta |0\rangle + \alpha |1\rangle)
 ```
 ```math
-\overset{id \otimes id \otimes (Z \cdot X)}
+\overset{id \otimes id \otimes (Z \cdot X)}\longmapsto
 ```
 ```math
 |1\rangle \otimes |1\rangle \otimes (\alpha |0\rangle + \beta |1\rangle)
