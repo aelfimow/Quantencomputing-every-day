@@ -8,7 +8,7 @@ Ab Seite 120:
   - komplexe Zahl: $\langle e_{2} | e_{1} \rangle$
   - Lies: Amplitude des Ereignisses $e_{2}$ nach Eintreten des Ereignisses $e_{1}$
 * Amplituden sind komplexe Koeffizienten von Zustandsvektoren
-* Absolutquadrat: Wahrscheinlichkeit für das Auftreten von$e_{2}$
+* Absolutquadrat: Wahrscheinlichkeit für das Auftreten von $e_{2}$
 * Beim Doppelspaltexperiment:
   - $e_{1}$: das Elektron verlässt die Elektronenquelle
   - $e_{2}$: das Elektron wird vom Rezeptor an der Stelle $x$ erfasst
