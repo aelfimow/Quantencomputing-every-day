@@ -11,15 +11,13 @@ Ab Seite 137:
 
 Ab Seite 138:
 * Als Spaltenvektoren:
-* $|0\rangle$:
+* $|0\rangle$, $|1\rangle$:
 ```math
 \begin{pmatrix}
 1 \\
 0
 \end{pmatrix}
-```
-* $|1\rangle$:
-```math
+,
 \begin{pmatrix}
 0 \\
 1
