@@ -11,6 +11,7 @@ Ab Seite 151:
   - Polarwinkel: $\theta = \frac{\pi}{2}$
   - Azimutwinkel: $\varphi$
   - Polarwinkel: $\theta = 2\beta$, $\beta = \frac{\theta}{2} = \frac{\pi}{4}$
+
 ```math
 \begin{pmatrix}
 \cos{\beta}\\
@@ -23,7 +24,7 @@ Ab Seite 151:
 \end{pmatrix}
 =
 \begin{pmatrix}
-\frac{1}{\sqrt{2}}}\\
-\frac{1}{\sqrt{2}}} e^{i\varphi}
+\frac{1}{\sqrt{2}}\\
+\frac{1}{\sqrt{2}} e^{i\varphi}
 \end{pmatrix}
 ```
