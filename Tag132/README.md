@@ -48,30 +48,30 @@ e^{i\varphi} \cdot \sin{\frac{\theta}{2}} \\
 \end{pmatrix}
 =
 \begin{pmatrix}
-e^{i\varphi} \cdot \cos{\frac{\theta}{2} - \frac{\pi}{2}} \\
+e^{i\varphi} \cdot \cos{(\frac{\theta}{2} - \frac{\pi}{2})} \\
 -\cos{-\frac{\theta}{2}}
 \end{pmatrix}
 =
 \begin{pmatrix}
-e^{i\varphi} \cdot \cos{\frac{\pi}{2} - \frac{\theta}{2}} \\
--\sin{\frac{\pi}{2} - \frac{\theta}{2}}
+e^{i\varphi} \cdot \cos{(\frac{\pi}{2} - \frac{\theta}{2})} \\
+-\sin{(\frac{\pi}{2} - \frac{\theta}{2})}
 \end{pmatrix}
 ```
 
 * Multiplikation mit: $e^{-i \varphi}$
 ```math
 \begin{pmatrix}
-\cos{\frac{\pi}{2} - \frac{\theta}{2}} \\
-e^{-i \varphi} \cdot (-\sin{\frac{\pi}{2} - \frac{\theta}{2}})
+\cos{(\frac{\pi}{2} - \frac{\theta}{2})} \\
+e^{-i \varphi} \cdot (-\sin{(\frac{\pi}{2} - \frac{\theta}{2})})
 \end{pmatrix}
 =
 \begin{pmatrix}
-\cos{\frac{\pi}{2} - \frac{\theta}{2}} \\
-e^{-i \varphi} \cdot e^{i \pi} \cdot \sin{\frac{\pi}{2} - \frac{\theta}{2}}
+\cos{(\frac{\pi}{2} - \frac{\theta}{2})} \\
+e^{-i \varphi} \cdot e^{i \pi} \cdot \sin{(\frac{\pi}{2} - \frac{\theta}{2})}
 \end{pmatrix}
 =
 \begin{pmatrix}
-\cos{\frac{\pi - \theta}{2}} \\
+\cos{(\frac{\pi - \theta}{2})} \\
 e^{i (\pi - \varphi} \cdot \sin{\frac{\pi - \theta}{2}}
 \end{pmatrix}
 ```
