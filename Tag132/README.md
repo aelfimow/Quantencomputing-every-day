@@ -49,7 +49,7 @@ e^{i\varphi} \cdot \sin{\frac{\theta}{2}} \\
 =
 \begin{pmatrix}
 e^{i\varphi} \cdot \cos{(\frac{\theta}{2} - \frac{\pi}{2})} \\
--\cos{-\frac{\theta}{2}}
+-\cos{(-\frac{\theta}{2})}
 \end{pmatrix}
 =
 \begin{pmatrix}
