@@ -72,7 +72,7 @@ e^{-i \varphi} \cdot e^{i \pi} \cdot \sin{(\frac{\pi}{2} - \frac{\theta}{2})}
 =
 \begin{pmatrix}
 \cos{(\frac{\pi - \theta}{2})} \\
-e^{i (\pi - \varphi} \cdot \sin{\frac{\pi - \theta}{2}}
+e^{i (\pi - \varphi)} \cdot \sin{\frac{\pi - \theta}{2}}
 \end{pmatrix}
 ```
 
