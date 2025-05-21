@@ -18,7 +18,6 @@ H
 ```math
 S
 =
-\frac{1}{\sqrt{2}}
 \begin{pmatrix}
 1 && 0 \\
 0 && i
@@ -28,7 +27,6 @@ S
 ```math
 T
 =
-\frac{1}{\sqrt{2}}
 \begin{pmatrix}
 1 && 0 \\
 0 && e^{i \frac{\pi}{4}}
