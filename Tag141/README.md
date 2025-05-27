@@ -16,6 +16,8 @@ Ab Seite 159:
 \cos{\frac{\theta}{2}} - \sin{\frac{\theta}{2}}
 \end{pmatrix}
 =
+```
+```math
 \frac{1}{\sqrt{2}}
 \begin{pmatrix}
 \cos{\frac{\theta}{2}} + \cos{(\frac{\theta}{2} - \frac{\pi}{2})}\\
@@ -25,9 +27,11 @@ Ab Seite 159:
 \frac{1}{\sqrt{2}}
 \begin{pmatrix}
 2\cos{\frac{\frac{\theta}{2} + \frac{\theta}{2} - \frac{\pi}{2}}{2}} \cdot \cos{\frac{\theta}{2} - \frac{\theta}{2} + \frac{\pi}{2}} \\
--2\sin{\frac{\frac{\theta}{2} + \frac{\theta}{2} - \frac{\pi}{2}}{2}} \cdot \sin{\frac{\theta}{2} - \frac{\theta}{2} + \frac{\pi}{2}} \\
+-2\sin{\frac{\frac{\theta}{2} + \frac{\theta}{2} - \frac{\pi}{2}}{2}} \cdot \sin{\frac{\theta}{2} - \frac{\theta}{2} + \frac{\pi}{2}}
 \end{pmatrix}
 =
+```
+```math
 \frac{1}{\sqrt{2}}
 \begin{pmatrix}
 2\frac{1}{\sqrt{2}}\cos{\frac{\theta - \frac{\pi}{2}}{2}} \\
