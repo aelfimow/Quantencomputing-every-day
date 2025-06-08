@@ -3,7 +3,7 @@
 Notizen zum Buch [Buch 1](../Buch1.md).
 
 Ab Seite 181:
-* $f(x) = \frac{1}{\sqrt{l}} \sum_{k = -\infinity}^{+\infinity} c_{k} e^{\frac{2\pi i k}{l}x}$
+* $f(x) = \frac{1}{\sqrt{l}} \sum_{k = -\infty}^{+\infty} c_{k} e^{\frac{2\pi i k}{l}x}$
 
 * Fourierkoeffizienten: $c_{k} = \frac{1}{\sqrt{l}} \int_{0}^{l} e^{-\frac{2\pi i k}{l}x} f(x) dx$
 
