@@ -18,6 +18,6 @@ Ab Seite 184:
 Ab Seite 185:
 * Ordnung der Klasse:
   - $[x]^{r} = 1$ für den kleinsten Exponenten $r$
-  - $\operatorname{ord}[x]$
-  - $\operatorname{ggT}(x^{\frac{r}{2}} - 1, n)$
-  - $\operatorname{ggT}(x^{\frac{r}{2}} + 1, n)$
+  - $ord[x]$
+  - $ggT(x^{\frac{r}{2}} - 1, n)$
+  - $ggT(x^{\frac{r}{2}} + 1, n)$
