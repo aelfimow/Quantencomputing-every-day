@@ -12,5 +12,5 @@ Ab Seite 186:
 
 * $f(x)$ wird ersetzt durch $x_{j}$
 * $\int$ wird ersetzt durch $\sum$
-* $e^{-2 \pi i k$ wird beibehalten
+* $e^{-2 \pi i k}$ wird beibehalten
 * $\frac{1}{\sqrt{l}}$ und $\frac{1}{N}$ weisen eine Analogie auf
