@@ -13,6 +13,7 @@ x_{2} \\
 . \\
 x_{N-1} \\
 \end{pmatrix}
+\longmapsto
 \begin{pmatrix}
 y_{0} \\
 y_{1} \\
@@ -30,5 +31,4 @@ y_{N-1} \\
 . \\
 \frac{1}{N} \sum_{j} x_{j} e^{-\frac{2\pi \cdot i \cdot (N - 1) \cdot j}{N}} \\
 \end{pmatrix}
-\longmapsto
 ```
