@@ -29,7 +29,7 @@ y_{N-1} \\
 * Die Transformationsmatrix ist noch nicht unitär
 * Für die Quantenfouriertransformation ergibt sich die Matrix:
 ```math
-\frac{1}{N}
+\frac{1}{\sqrt{N}}
 \begin{pmatrix}
 e^{+\frac{2\pi \cdot i \cdot 0 \cdot 0}{N}}       && e^{+\frac{2\pi \cdot i \cdot 0 \cdot 1}{N}}       && e^{+\frac{2\pi \cdot i \cdot 0 \cdot (N-1)}{N}}       && \\
 e^{+\frac{2\pi \cdot i \cdot 1 \cdot 0}{N}}       && e^{+\frac{2\pi \cdot i \cdot 1 \cdot 1}{N}}       && e^{+\frac{2\pi \cdot i \cdot 1 \cdot (N-1)}{N}}       && \\
