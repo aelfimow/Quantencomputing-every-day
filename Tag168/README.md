@@ -6,7 +6,7 @@ Ab Seite 198:
 * Mathematische Aufbereitung
 * Ursprungsdefinition:
 ```math
-y_{k} = \frac{1}{\sqrt{N}}\math_{j=0}^{N-1}e^{-2\pi i j \frac{k}{N}}\cdot x_{j}
+y_{k} = \frac{1}{\sqrt{N}}\sum_{j=0}^{N-1}e^{-2\pi i j \frac{k}{N}}\cdot x_{j}
 ```
 
 * $j\frac{k}{N}$ als Summe von Dualbrüchen
