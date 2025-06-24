@@ -4,6 +4,7 @@ Notizen zum Buch [Buch 1](../Buch1.md).
 
 Ab Seite 199:
 * Hadamard-Transformation
+  - mit $j_{1} = 0$
 ```math
 H(|0\rangle) = \frac{1}{\sqrt{2}}(|0\rangle + |1\rangle) =
 ```
