@@ -7,7 +7,7 @@ Ab Seite 200:
 ```math
 H(|1\rangle) = \frac{1}{\sqrt{2}}(|0\rangle - |1\rangle) =
 ```
-* einsetzen $-1 = e^{2\pi i}$
+* einsetzen $-1 = e^{2\pi i \cdot \frac{1}{2}}$
 ```math
 \frac{1}{\sqrt{2}}(|0\rangle + e^{2\pi i \cdot \frac{1}{2}}|1\rangle) =
 ```
