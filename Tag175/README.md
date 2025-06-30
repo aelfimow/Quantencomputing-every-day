@@ -19,4 +19,7 @@ R_{2}^{*} =
 ```
 
 Ab Seite 210:
-* zu wählende $t$: $t = n + \log{(2 + \frac{1}{2\epsilon})}$
+* zu wählende $t$:
+```math
+t = n + \log{(2 + \frac{1}{2\epsilon})}
+```
