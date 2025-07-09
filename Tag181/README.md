@@ -19,10 +19,7 @@ Ab Seite 214:
 \sum_{s=0}^{r-1} e^{-2\pi i k \frac{s}{r}} = \sum_{s=0}^{r-1} (e^{-2\pi i k \frac{1}{r}})^{s} =
 ```
 ```math
-\frac{(e^{-2\pi i k \frac{1}{r}})^{r} - 1}{e^{-2\pi i k \frac{1}{r}} - 1} =
-```
-```math
-\frac{e^{-2\pi i k} - 1}{e^{-2\pi i k \frac{1}{r}} - 1} =
+\frac{(e^{-2\pi i k \frac{1}{r}})^{r} - 1}{e^{-2\pi i k \frac{1}{r}} - 1} = \frac{e^{-2\pi i k} - 1}{e^{-2\pi i k \frac{1}{r}} - 1} =
 ```
 ```math
 \frac{1 - 1}{e^{-2\pi i k \frac{1}{r}} - 1} = \frac{0}{e^{-2\pi i k \frac{1}{r}} - 1} = 0
