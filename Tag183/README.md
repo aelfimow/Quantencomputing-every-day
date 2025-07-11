@@ -16,7 +16,7 @@ Ab Seite 216:
 |0\rangle|1\rangle = \frac{1}{r}\sum_{s=0}^{r-1}\sum_{j=0}^{2^{t}-1}|j\rangle|u_{s}\rangle \longmapsto
 ```
 ```math
-\frac{1}{r}\sum_{s=0}^{r-1}\sum_{j=0}^{2^{t}-1}|j\rangleU^{j}|u_{s}\rangle =
+\frac{1}{r}\sum_{s=0}^{r-1}\sum_{j=0}^{2^{t}-1}|j\rangle U^{j} |u_{s}\rangle =
 ```
 ```math
 \frac{1}{r}\sum_{s=0}^{r-1}\sum_{j=0}^{2^{t}-1}e^{2\pi i j \frac{s}{r}}|j\rangle|u_{s}\rangle =
