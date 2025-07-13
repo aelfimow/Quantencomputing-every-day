@@ -13,7 +13,7 @@ Ab Seite 221:
 * dieser Zustand ist rotationsinvariant: Singulettzustand
 * Triplettzustand:
 ```math
-\frac{1}{\frac{2}}(|s_{+}\rangle |s_{-}\rangle + |s_{-}\rangle |s_{+}\rangle)
+\frac{1}{\sqrt{2}}(|s_{+}\rangle |s_{-}\rangle + |s_{-}\rangle |s_{+}\rangle)
 ```
 * Nach dem Zerfall des Moleküls wird der Zustand beibehalten
 * ergibt die Messung am einen Atom $s_{+}$, dann am anderen Atom $s_{-}$
