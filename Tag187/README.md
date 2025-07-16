@@ -8,10 +8,10 @@ Ab Seite 224:
 * Alice misst entweder $Z$ oder $D$
 * Bob misst entweder $M$ oder $G$
 * 4 Möglichkeiten:
-  - $Z$ oder $M$, Zufallsvariable $Z \cdot M$
-  - $D$ oder $M$, Zufallsvariable $D \cdot M$
-  - $Z$ oder $G$, Zufallsvariable $Z \cdot G$
-  - $D$ oder $G$, Zufallsvariable $D \cdot G$
+  - $Z$ und $M$, Zufallsvariable $Z \cdot M$
+  - $D$ und $M$, Zufallsvariable $D \cdot M$
+  - $Z$ und $G$, Zufallsvariable $Z \cdot G$
+  - $D$ und $G$, Zufallsvariable $D \cdot G$
 
 * $p(z,d,m,g)$: Wahrscheinlichkeit, dass
   - $Z = z$
