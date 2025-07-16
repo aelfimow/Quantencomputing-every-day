@@ -5,8 +5,8 @@ Notizen zum Buch [Buch 1](../Buch1.md).
 Ab Seite 224:
 * Charlie, Alice und Bob
 * Charlie sendet jeweils eine Münze an Alice und Bob
-* Alice miss entweder $Z$ oder $D$
-* Bob miss entweder $M$ oder $G$
+* Alice misst entweder $Z$ oder $D$
+* Bob misst entweder $M$ oder $G$
 * 4 Möglichkeiten:
   - $Z$ oder $M$, Zufallsvariable $Z \cdot M$
   - $D$ oder $M$, Zufallsvariable $D \cdot M$
