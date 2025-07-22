@@ -4,7 +4,7 @@ Notizen zum Buch [Buch 1](../Buch1.md).
 
 Ab Seite 228:
 * $A$: eine Observable mit den
-  - $|langle e_{i} \rangle$: Eigenvektoren
+  - $| e_{i} \rangle$: Eigenvektoren
   - $\lambda_{i}$: Eigenwerte
 ```math
 A |e_{i} \rangle = \lambda_{i} |e_{i} \rangle
