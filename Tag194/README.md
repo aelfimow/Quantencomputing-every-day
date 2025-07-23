@@ -22,7 +22,7 @@ Ab Seite 228:
 ```math
 \sum_{i,j} \alpha_{j}^{*} \alpha_{i} \lambda_{i}
 ```
-* Einsetzen: $p(\lambda_{i} = \alpha_{i}^{*} \alpha_{i}$
+* Einsetzen: $p(\lambda_{i}) = \alpha_{i}^{*} \alpha_{i}$
 ```math
-\sum_{i} p(\lambda_{i} \lambda_{i} = E(A)
+\sum_{i} p(\lambda_{i}) \lambda_{i} = E(A)
 ```
