@@ -20,9 +20,9 @@ Ab Seite 228:
 ```
 * Einsetzen: $\langle e_{j} | e_{i} \rangle = 1$
 ```math
-\langle \sum_{i,j} \alpha_{j}^{*} \alpha_{i} \lambda_{i}
+\sum_{i,j} \alpha_{j}^{*} \alpha_{i} \lambda_{i}
 ```
 * Einsetzen: $p(\lambda_{i} = \alpha_{i}^{*} \alpha_{i}$
 ```math
-\langle \sum_{i} p(\lambda_{i} \lambda_{i} = E(A)
+\sum_{i} p(\lambda_{i} \lambda_{i} = E(A)
 ```
